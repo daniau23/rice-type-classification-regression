@@ -23,3 +23,6 @@ The project explores the use of machine learning and deep learning capablities f
     - Using a different pipeline approach; removing PCA, thereby feeding the mode with more features. Deep learning network architecture remained the same. But performance dropped as more misclassification were seen on the test data.
 
 - For the regression analysis, the deep learning approach did yield a better RMSE score, 0.0989 with a loss of nearly 0; **0.0098**
+
+
+All saved models can be found in the models folder and all saved pipelines for deep learning approaches can be found in the pipeline folder
