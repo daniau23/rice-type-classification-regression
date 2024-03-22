@@ -1,1 +1,5 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
+model/deep_classifier filter=lfs diff=lfs merge=lfs -text
+model/deep_classifier2 filter=lfs diff=lfs merge=lfs -text
+model/regressor filter=lfs diff=lfs merge=lfs -text
+pipeline filter=lfs diff=lfs merge=lfs -text
