@@ -1,3 +1,4 @@
+![Rice Grain](img/rice_size.jpg)
 ## **RICE TYPE CLASSIFICATION & EXTENT PREDICTION**
 
 The project explores the use of machine learning and deep learning capablities for the prediction of the rice type. The Project begins with as follows;
@@ -25,4 +26,9 @@ The project explores the use of machine learning and deep learning capablities f
 - For the regression analysis, the deep learning approach did yield a better RMSE score, 0.0989 with a loss of nearly 0; **0.0098**
 
 
-All saved models can be found in the models folder and all saved pipelines for deep learning approaches can be found in the pipeline folder
+- All saved models can be found in the models folder and all saved pipelines for deep learning approaches can be found in the pipeline folder.
+- All project files can be explored in the project_files folder; gnatt chart, project charter, status report, Work Breakdown Structure (WBS). 
+
+
+![Gnatt](project_files/img/Gnatt%20Chart.png) ![WBS](project_files/img/WBS.png)
+![Charter](project_files/img/Project%20Charter.png) ![Status](project_files/img/Status-report.png) 
